@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Martin Giorda
 
-<!--
-**martingiorda4-hash/martingiorda4-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Programming Student**
 
-Here are some ideas to get you started:
+I'm a programming student from Argentina passionate about backend development, software architecture and building applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing REST APIs, working with databases and continuously learning new technologies.
+
+## 🚀 Technologies & Tools
+
+![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,vue,dotnet,nestjs,mysql,postgres,prisma,git,github,vscode,visualstudio)
+
+## 📚 Currently Learning
+
+- NestJS
+- PostgreSQL and Prisma ORM
+- Clean Architecture
+- Software Design Patterns
+- REST API Development
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martingiorda4-hash&show_icons=true&theme=github_dark)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-giorda-196559357/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/martingiorda4-hash)
