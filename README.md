@@ -18,9 +18,6 @@ I enjoy developing REST APIs, working with databases and continuously learning n
 - Software Design Patterns
 - REST API Development
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martingiorda4-hash&show_icons=true&theme=github_dark)
 
 ## 📫 Connect with me
 
