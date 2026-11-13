@@ -8,7 +8,7 @@ I enjoy developing REST APIs, working with databases and continuously learning n
 
 ## 🚀 Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,vue,dotnet,nestjs,mysql,postgres,prisma,git,github,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css,vue,dotnet,nestjs,mysql,postgres,git,github,vscode,visualstudio)
 
 ## 📚 Currently Learning
 
